@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/J3.L.P0013">
+    <Resource
+        name = "SE1418DS" type = "javax.sql.DataSource" auth = "Container"
+                driverClassName = "com.microsoft.sqlserver.jdbc.SQLServerDriver"
+                url = "jdbc:sqlserver://localhost:49671;DatabaseName=J3.L.P0013;"
+                username = "sa" password = "Cho0123456789"
+    />
+</Context>
